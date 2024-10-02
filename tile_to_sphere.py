@@ -8,11 +8,12 @@ def stitch_tiles(input_dir, level, output_file, is_annotation):
     temp_dir = os.path.abspath("temp_tiles")
     total_size =  512 * split_count
     print(f"total size: {total_size}")
+    suffix = "_annotation.png" if is_annotation else ".jpg"
     os.makedirs(temp_dir, exist_ok=True)
     for i in range(split_count):
         for j in range(split_count):
             # copy and rename file from input_dir/i/j.jpg to temp_dir/tile_i_j.jpg using shutil
-            shutil.copyfile(os.path.join(input_dir, str(i), f"{j}{"_annotation" if is_annotation else ""}.jpg"), os.path.join(temp_dir, f"tile_{i+1}_{j+1}.jpg"))
+            shutil.copyfile(os.path.join(input_dir, str(i), f"{j}{suffix}"), os.path.join(temp_dir, f"tile_{i+1}_{j+1}.jpg"))
 
 
     temp_dir = temp_dir.replace(" ", "\ ")
@@ -38,5 +39,5 @@ def cube_to_sphere(input_dir, level=1, is_annotation=False):
     return output_file
 
 if __name__ == "__main__":
-    input_dir = "/Users/davidyang/Downloads/Northeastern_Forest_Obliques/8928de8c9dbffff/8d62ebee-1ae9-4797-a597-40b8468c2f2d"
-    cube_to_sphere(input_dir, 5)
+    input_dir = "/Users/davidyang/Downloads/Northeastern_Forest_Obliques/8928de8c913ffff/7b947867-7ab5-435e-9cdb-a7306f71bdbe"
+    cube_to_sphere(input_dir, 1, True)
