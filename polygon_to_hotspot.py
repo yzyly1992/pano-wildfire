@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
 from mask_to_polygon import get_polygons_from_mask
 
-def create_krpano_hotspot(polygon, name, fill_color="0xAAAAAA", fill_alpha="0.5", border_color="0xAAAAAA", border_width="3.0"):
+def create_krpano_hotspot(polygon, name, fill_color="0xAA0000", fill_alpha="0.5", border_color="0xAA0000", border_width="3.0"):
     hotspot = ET.Element("hotspot")
     hotspot.set("name", name)
     hotspot.set("keep", "false")
@@ -18,7 +18,7 @@ def create_krpano_hotspot(polygon, name, fill_color="0xAAAAAA", fill_alpha="0.5"
         point = ET.SubElement(hotspot, "point")
         # Convert normalized coordinates to spherical coordinates
         ath = str(x * 360 - 180)  # Convert x from [0, 1] to [-180, 180]
-        atv = str(90 - y * 180)   # Convert y from [0, 1] to [90, -90]
+        atv = str(-90 + y * 180)  # Convert y from [0, 1] to [-90, 90], flipping the vertical axis
         point.set("ath", ath)
         point.set("atv", atv)
     
