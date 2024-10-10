@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<krpano>
+  <hotspot name="hotspot_1" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="40.522388059701484" atv="-55.74626865671641"/>
+    <point ath="44.32835820895522" atv="-60.223880597014926"/>
+    <point ath="45.8955223880597" atv="-61.11940298507463"/>
+    <point ath="52.38805970149255" atv="-61.11940298507463"/>
+    <point ath="51.9402985074627" atv="-58.43283582089552"/>
+    <point ath="46.343283582089526" atv="-53.955223880597"/>
+    <point ath="40.522388059701484" atv="-55.74626865671641"/>
+  </hotspot>
+  <hotspot name="hotspot_2" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="84.17910447761193" atv="-51.268656716417894"/>
+    <point ath="79.25373134328362" atv="-53.73134328358208"/>
+    <point ath="78.58208955223881" atv="-54.62686567164178"/>
+    <point ath="79.47761194029852" atv="-58.656716417910445"/>
+    <point ath="80.82089552238807" atv="-60.8955223880597"/>
+    <point ath="85.74626865671644" atv="-62.01492537313433"/>
+    <point ath="91.56716417910445" atv="-56.41791044776119"/>
+    <point ath="89.55223880597015" atv="-51.9402985074627"/>
+    <point ath="84.17910447761193" atv="-51.268656716417894"/>
+  </hotspot>
+  <hotspot name="hotspot_3" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="-123.80597014925374" atv="-40.970149253731364"/>
+    <point ath="-124.92537313432837" atv="-42.537313432835816"/>
+    <point ath="-124.25373134328359" atv="-45.223880597014926"/>
+    <point ath="-122.46268656716418" atv="-45.67164179104478"/>
+    <point ath="-122.23880597014926" atv="-45.44776119402985"/>
+    <point ath="-122.01492537313433" atv="-45.67164179104478"/>
+    <point ath="-120.44776119402985" atv="-45.67164179104478"/>
+    <point ath="-119.32835820895522" atv="-41.86567164179104"/>
+    <point ath="-121.56716417910448" atv="-40.970149253731364"/>
+    <point ath="-123.80597014925374" atv="-40.970149253731364"/>
+  </hotspot>
+  <hotspot name="hotspot_4" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="72.9850746268657" atv="-40.74626865671641"/>
+    <point ath="73.88059701492537" atv="-41.64179104477611"/>
+    <point ath="75.8955223880597" atv="-42.537313432835816"/>
+    <point ath="77.910447761194" atv="-43.88059701492537"/>
+    <point ath="78.58208955223881" atv="-43.88059701492537"/>
+    <point ath="79.92537313432831" atv="-43.208955223880594"/>
+    <point ath="78.80597014925371" atv="-40.970149253731364"/>
+    <point ath="78.13432835820896" atv="-40.970149253731364"/>
+    <point ath="75.22388059701495" atv="-39.62686567164181"/>
+    <point ath="74.32835820895522" atv="-40.29850746268656"/>
+    <point ath="72.9850746268657" atv="-40.74626865671641"/>
+  </hotspot>
+  <hotspot name="hotspot_5" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="126.49253731343282" atv="-34.4776119402985"/>
+    <point ath="125.37313432835822" atv="-34.25373134328359"/>
+    <point ath="124.70149253731347" atv="-35.14925373134329"/>
+    <point ath="122.910447761194" atv="-35.14925373134329"/>
+    <point ath="122.46268656716421" atv="-36.71641791044776"/>
+    <point ath="122.910447761194" atv="-37.16417910447761"/>
+    <point ath="123.13432835820896" atv="-38.283582089552226"/>
+    <point ath="124.47761194029852" atv="-38.731343283582106"/>
+    <point ath="126.26865671641792" atv="-37.835820895522374"/>
+    <point ath="126.71641791044777" atv="-37.38805970149254"/>
+    <point ath="126.71641791044777" atv="-36.71641791044776"/>
+    <point ath="126.49253731343282" atv="-36.49253731343285"/>
+    <point ath="126.71641791044777" atv="-36.26865671641792"/>
+    <point ath="126.49253731343282" atv="-36.04477611940298"/>
+    <point ath="126.49253731343282" atv="-34.4776119402985"/>
+  </hotspot>
+  <hotspot name="hotspot_6" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="119.55223880597015" atv="-34.25373134328359"/>
+    <point ath="118.2089552238806" atv="-34.4776119402985"/>
+    <point ath="117.53731343283584" atv="-36.04477611940298"/>
+    <point ath="117.76119402985074" atv="-37.61194029850748"/>
+    <point ath="119.1044776119403" atv="-39.402985074626855"/>
+    <point ath="119.32835820895525" atv="-39.402985074626855"/>
+    <point ath="120.22388059701495" atv="-38.0597014925373"/>
+    <point ath="120.22388059701495" atv="-37.16417910447761"/>
+    <point ath="120.44776119402985" atv="-36.940298507462686"/>
+    <point ath="120.44776119402985" atv="-35.82089552238806"/>
+    <point ath="120.0" atv="-35.37313432835822"/>
+    <point ath="120.0" atv="-34.92537313432835"/>
+    <point ath="119.55223880597015" atv="-34.25373134328359"/>
+  </hotspot>
+  <hotspot name="hotspot_7" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="-105.22388059701493" atv="-33.5820895522388"/>
+    <point ath="-110.14925373134328" atv="-34.70149253731343"/>
+    <point ath="-112.16417910447761" atv="-36.49253731343285"/>
+    <point ath="-112.38805970149254" atv="-37.16417910447761"/>
+    <point ath="-111.49253731343283" atv="-39.62686567164181"/>
+    <point ath="-104.32835820895522" atv="-38.731343283582106"/>
+    <point ath="-105.22388059701493" atv="-33.5820895522388"/>
+  </hotspot>
+  <hotspot name="hotspot_8" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="82.61194029850748" atv="-33.35820895522387"/>
+    <point ath="82.61194029850748" atv="-35.37313432835822"/>
+    <point ath="82.83582089552237" atv="-35.59701492537313"/>
+    <point ath="82.83582089552237" atv="-36.49253731343285"/>
+    <point ath="83.05970149253733" atv="-36.71641791044776"/>
+    <point ath="83.28358208955223" atv="-38.0597014925373"/>
+    <point ath="84.85074626865668" atv="-38.283582089552226"/>
+    <point ath="85.52238805970148" atv="-37.38805970149254"/>
+    <point ath="84.62686567164178" atv="-35.82089552238806"/>
+    <point ath="84.62686567164178" atv="-34.25373134328359"/>
+    <point ath="84.17910447761193" atv="-33.80597014925374"/>
+    <point ath="82.61194029850748" atv="-33.35820895522387"/>
+  </hotspot>
+  <hotspot name="hotspot_9" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="-43.656716417910445" atv="-29.55223880597015"/>
+    <point ath="-44.776119402985074" atv="-32.238805970149244"/>
+    <point ath="-44.55223880597015" atv="-32.68656716417911"/>
+    <point ath="-44.776119402985074" atv="-32.910447761194035"/>
+    <point ath="-44.776119402985074" atv="-34.4776119402985"/>
+    <point ath="-45.0" atv="-34.92537313432835"/>
+    <point ath="-42.98507462686567" atv="-35.82089552238806"/>
+    <point ath="-41.64179104477611" atv="-33.80597014925374"/>
+    <point ath="-41.64179104477611" atv="-31.119402985074615"/>
+    <point ath="-41.41791044776119" atv="-30.895522388059717"/>
+    <point ath="-43.656716417910445" atv="-29.55223880597015"/>
+  </hotspot>
+  <hotspot name="hotspot_10" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="141.04477611940297" atv="-23.507462686567166"/>
+    <point ath="139.47761194029852" atv="-24.179104477611943"/>
+    <point ath="138.8059701492537" atv="-26.641791044776113"/>
+    <point ath="139.7014925373134" atv="-27.985074626865668"/>
+    <point ath="139.92537313432837" atv="-28.88059701492537"/>
+    <point ath="141.71641791044777" atv="-31.343283582089555"/>
+    <point ath="142.38805970149252" atv="-30.0"/>
+    <point ath="141.94029850746267" atv="-29.104477611940297"/>
+    <point ath="141.04477611940297" atv="-23.507462686567166"/>
+  </hotspot>
+  <hotspot name="hotspot_11" keep="false" zorder="0" fillcolor="0xAAAAAA" fillalpha="0.5" bordercolor="0xAAAAAA" borderwidth="3.0" visible="true" enabled="true">
+    <point ath="132.3134328358209" atv="-22.16417910447761"/>
+    <point ath="131.86567164179104" atv="-22.388059701492537"/>
+    <point ath="131.4179104477612" atv="-23.05970149253733"/>
+    <point ath="131.4179104477612" atv="-24.402985074626855"/>
+    <point ath="131.1940298507463" atv="-24.85074626865672"/>
+    <point ath="131.4179104477612" atv="-25.074626865671647"/>
+    <point ath="131.64179104477608" atv="-27.089552238805965"/>
+    <point ath="132.9850746268657" atv="-27.761194029850742"/>
+    <point ath="133.65671641791045" atv="-26.641791044776113"/>
+    <point ath="134.1044776119403" atv="-23.731343283582092"/>
+    <point ath="133.88059701492534" atv="-23.507462686567166"/>
+    <point ath="133.88059701492534" atv="-22.611940298507463"/>
+    <point ath="132.3134328358209" atv="-22.16417910447761"/>
+  </hotspot>
+</krpano>
